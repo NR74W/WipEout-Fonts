@@ -10,6 +10,7 @@ Fonts from the WipEout series, remade in .ttf (TrueType-based OpenType) format.
 ## WipEout Pure
 ![FX300 Angular](https://user-images.githubusercontent.com/62298614/114796360-0b47b680-9d91-11eb-9c26-c8dd4690506d.png)
 ![FX300](https://user-images.githubusercontent.com/62298614/117665744-72dffe80-b1a3-11eb-9c40-ff4c62fabc96.png)
+![2197 Heavy](https://user-images.githubusercontent.com/62298614/117741614-2debb480-b203-11eb-914b-a5ef144854cc.png)
 ![2197 Block](https://user-images.githubusercontent.com/62298614/117665733-707da480-b1a3-11eb-9138-30e5bb37fd70.png)
 
 ## WipEout Pulse
