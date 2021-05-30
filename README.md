@@ -1,5 +1,5 @@
 # WipEout Fonts
-Fonts from the WipEout series, remade in TrueType-based OpenType format.
+Fonts from the WipEout series, remade in OpenType format.
 
 ## WipEout 2097 / 64
 ![F5000](https://user-images.githubusercontent.com/62298614/120089592-3e08fc80-c0fc-11eb-9060-85fdfa9fa4fe.png)
