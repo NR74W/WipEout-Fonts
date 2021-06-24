@@ -2,10 +2,10 @@
 Fonts from the WipEout series, remade in OpenType format.
 
 ## WipEout 2097 / 64
-![F5000](https://user-images.githubusercontent.com/62298614/120089592-3e08fc80-c0fc-11eb-9060-85fdfa9fa4fe.png)
+![F5000](https://user-images.githubusercontent.com/62298614/123288621-08471000-d510-11eb-9df7-b1c1f4575184.png)
 
 ## Wip3out
-![F500 Ang-ular](https://user-images.githubusercontent.com/62298614/120089519-7eb44600-c0fb-11eb-8840-b74053c1b1f3.png)
+![F500 Ang-ular](https://user-images.githubusercontent.com/62298614/123288627-08dfa680-d510-11eb-8e3e-9e713584d7a8.png)
 
 ## WipEout Pure
 ![FX300 Angular](https://user-images.githubusercontent.com/62298614/121789097-415bb800-cbd3-11eb-96ac-e9f5d673992c.png)
