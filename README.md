@@ -14,7 +14,7 @@ Fonts from the WipEout series, remade in OpenType format.
 ![2197 Block](https://user-images.githubusercontent.com/62298614/117665733-707da480-b1a3-11eb-9138-30e5bb37fd70.png)
 
 ## WipEout Pulse
-![X2](https://user-images.githubusercontent.com/62298614/117091950-28065700-ad5d-11eb-967e-5f4aa81c3881.png)
+![X2](https://user-images.githubusercontent.com/62298614/124838518-4ff57f00-df87-11eb-8bae-ab2250a25f33.png)
 ![supErphoniX2](https://user-images.githubusercontent.com/62298614/120089254-d0a79c80-c0f8-11eb-9731-ef9cbdfe369b.png)
 
 ## WipEout HD
