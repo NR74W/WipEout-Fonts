@@ -7,6 +7,9 @@ Fonts from the WipEout series, remade in OpenType format.
 ## Wip3out
 ![F500 Ang-ular](https://user-images.githubusercontent.com/62298614/123288627-08dfa680-d510-11eb-8e3e-9e713584d7a8.png)
 
+## WipEout Fusion
+![Fusion](https://user-images.githubusercontent.com/62298614/132991015-abed3363-511c-4dcb-8a6a-8f0f5d84a033.png)
+
 ## WipEout Pure
 ![FX300 Angular](https://user-images.githubusercontent.com/62298614/121789097-415bb800-cbd3-11eb-96ac-e9f5d673992c.png)
 ![FX300](https://user-images.githubusercontent.com/62298614/117665744-72dffe80-b1a3-11eb-9c40-ff4c62fabc96.png)
@@ -19,6 +22,12 @@ Fonts from the WipEout series, remade in OpenType format.
 
 ## WipEout HD
 ![2097](https://user-images.githubusercontent.com/62298614/114795033-ff0e2a00-9d8d-11eb-97b0-d30e461ce3c7.png)
+
+### Other fonts used in the series:
+- **Amalgama** (WipEout 1 / 2097 / 64)  
+- **Prototype AS-ULAR** (Wip3out)  
+- **Assegai Rounded** (WipEout Pulse)  
+- **WO3** (WipEout HD)
 
 ### List of third-party fonts used in the series:
 
