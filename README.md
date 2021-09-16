@@ -19,6 +19,7 @@ Fonts from the WipEout series, remade in OpenType format.
 ## WipEout Pulse
 ![X2](https://user-images.githubusercontent.com/62298614/124838518-4ff57f00-df87-11eb-8bae-ab2250a25f33.png)
 ![supErphoniX2](https://user-images.githubusercontent.com/62298614/120089254-d0a79c80-c0f8-11eb-9731-ef9cbdfe369b.png)
+![Assegai Rounded](https://user-images.githubusercontent.com/62298614/133530296-a1b92f6f-5fb4-4f7e-b3e9-7c8def137686.png)
 
 ## WipEout HD
 ![2097](https://user-images.githubusercontent.com/62298614/114795033-ff0e2a00-9d8d-11eb-97b0-d30e461ce3c7.png)
@@ -26,7 +27,6 @@ Fonts from the WipEout series, remade in OpenType format.
 ### Other fonts used in the series:
 - **Amalgama** (WipEout 1 / 2097 / 64)  
 - **Prototype AS-ULAR** (Wip3out)  
-- **Assegai Rounded** (WipEout Pulse)  
 - **WO3** (WipEout HD)
 
 ### List of third-party fonts used in the series:
@@ -41,4 +41,4 @@ Fonts from the WipEout series, remade in OpenType format.
 - **OCR A** (WipEout Pure)  
 - **OCR B** (WipEout (Cover))  
 - **Orbit-B** (WipEout (Cover))  
-- **TRACEROUTE** (WipEout HD)  
+- **TRACEROUTE** (WipEout HD)
