@@ -2,32 +2,32 @@
 Fonts from the WipEout series, remade in OpenType format.
 
 ## WipEout 2097 / 64
-![F5000](https://user-images.githubusercontent.com/62298614/123288621-08471000-d510-11eb-9df7-b1c1f4575184.png)
+![F5000](previews/F5000.png)
 
 ## Wip3out
-![F500 Ang-ular](https://user-images.githubusercontent.com/62298614/123288627-08dfa680-d510-11eb-8e3e-9e713584d7a8.png)
+![F500 Ang-ular](previews/F500%20Ang-ular.png)
 
 ## WipEout Fusion
-![Fusion](https://user-images.githubusercontent.com/62298614/132991015-abed3363-511c-4dcb-8a6a-8f0f5d84a033.png)
+![Fusion](previews/Fusion.png)
 
 ## WipEout Pure
-![FX300 Angular](https://user-images.githubusercontent.com/62298614/121789097-415bb800-cbd3-11eb-96ac-e9f5d673992c.png)
-![FX300](https://user-images.githubusercontent.com/62298614/117665744-72dffe80-b1a3-11eb-9c40-ff4c62fabc96.png)
-![2197 Heavy](https://user-images.githubusercontent.com/62298614/117741614-2debb480-b203-11eb-914b-a5ef144854cc.png)
-![2197 Block](https://user-images.githubusercontent.com/62298614/117665733-707da480-b1a3-11eb-9138-30e5bb37fd70.png)
+![FX300 Angular](previews/FX300%20Angular.png)
+![FX300](previews/FX300.png)
+![2197 Heavy](previews/2197%20Heavy.png)
+![2197 Block](previews/2197%20Block.png)
 
 ## WipEout Pulse
-![X2](https://user-images.githubusercontent.com/62298614/124838518-4ff57f00-df87-11eb-8bae-ab2250a25f33.png)
-![supErphoniX2](https://user-images.githubusercontent.com/62298614/120089254-d0a79c80-c0f8-11eb-9731-ef9cbdfe369b.png)
-![Assegai Rounded](https://user-images.githubusercontent.com/62298614/133530296-a1b92f6f-5fb4-4f7e-b3e9-7c8def137686.png)
+![X2](previews/X2.png)
+![supErphoniX2](previews/supErphoniX2.png)
+![Assegai Rounded](previews/Assegai%20Rounded.png)
 
 ## WipEout HD
-![2097](https://user-images.githubusercontent.com/62298614/114795033-ff0e2a00-9d8d-11eb-97b0-d30e461ce3c7.png)
+![2097](previews/2097.png)
+![WO3](previews/WO3.png)
 
 ### Other fonts used in the series:
 - **Amalgama** (WipEout 1 / 2097 / 64)  
-- **Prototype AS-ULAR** (Wip3out)  
-- **WO3** (WipEout HD)
+- **Prototype AS-ULAR** (Wip3out)
 
 ### List of third-party fonts used in the series:
 
