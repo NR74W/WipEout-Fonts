@@ -1,7 +1,8 @@
 # WipEout Fonts
 Fonts from the WipEout series, remade in OpenType format.
 
-## WipEout 2097 / 64
+## WipEout 1 - 2097 / 64
+![Amalgama](previews/Amalgama.png)
 ![F5000](previews/F5000.png)
 
 ## Wip3out
@@ -24,10 +25,6 @@ Fonts from the WipEout series, remade in OpenType format.
 ## WipEout HD
 ![2097](previews/2097.png)
 ![WO3](previews/WO3.png)
-
-### Other fonts used in the series:
-- **Amalgama** (WipEout 1 / 2097 / 64)  
-- **Prototype AS-ULAR** (Wip3out)
 
 ### List of third-party fonts used in the series:
 
