@@ -5,7 +5,7 @@ FamilyName: X2
 Weight: Regular
 Copyright: X2 remake by NR74W (2021).\nOriginal font design by Studio Liverpool (2007).
 UComments: "2021-3-27: Created with FontForge (http://fontforge.org)"
-FontLog: "The X2 font from WipEout Pulse, released for the PlayStation Portable in 2007.+AAoA-Made by Sony Computer Entertainment Europe Studio Liverpool.+AAoACgAA-Version 1.0.+AAoA-Homepage: https://github.com/NR74W/WipEout-Fonts+AAoACgAA-The main font of WipEout Pulse, the prototype of WipEout HD also used it.+AAoA-Has at least two versions, the few old characters can be found in the Private Use Area.+AAoACgAA--- NR74W (2021)"
+FontLog: "The X2 font from WipEout Pulse, released for the PlayStation Portable in 2007.+AAoA-Made by Sony Computer Entertainment Europe Studio Liverpool.+AAoACgAA-Version 1.0.+AAoA-Homepage: https://github.com/NR74W/WipEout-Fonts+AAoACgAA-The main font of WipEout Pulse, the prototype of WipEout HD also used it.+AAoA-X2 was the project codename of WipEout Pulse.+AAoA-Has at least two versions, the few old characters can be found in the Private Use Area.+AAoACgAA--- NR74W (2021)"
 Version: 1.00
 ItalicAngle: 0
 UnderlinePosition: -146
@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1616806074
-ModificationTime: 1622332947
+ModificationTime: 1634741662
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5

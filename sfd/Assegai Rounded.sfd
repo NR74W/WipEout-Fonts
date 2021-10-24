@@ -3,9 +3,9 @@ FontName: Assegai-Rounded
 FullName: Assegai Rounded
 FamilyName: Assegai Rounded
 Weight: Regular
-Copyright: Assegai Rounded font remake by NR74W (2021).\nOriginal font design by Edd Wainwright (2007).
+Copyright: Assegai Rounded remake by NR74W (2021).\nOriginal font design by Edd Wainwright (2007).
 UComments: "2021-9-14: Created with FontForge (http://fontforge.org)"
-FontLog: "The Assegai Rounded font from WipEout Pulse, released for the PlayStation Portable in 2007.+AAoA-Made by Edd Wainwright from Studio Liverpool.+AAoACgAA-Version 1.0.+AAoA-Homepage: https://github.com/NR74W/WipEout-Fonts+AAoACgAA-This unique typeface was created for the Assegai Developments logo and their billboards in WipEout Pulse, and is almost identical to the one used in WipEout Pure.+AAoA-It is reminiscent of the Prototype AS-ULAR font made by The Designers Republic for the company's logotype in Wip3out.+AAoACgAA-The original font most likely used kerning, it was not possible to replicate it so the same spacing size was used for all characters (100EM).+AAoA-The numbers 0 and 4 to 9 had to be created due to lack of source materials, and no special characters could be added (perhaps they never existed).+AAoA-It is possible that some of the capital letters were different, the +ACIA-Achieve Your Destiny+ACIA billboard used a different E / H / R / T. These have been added in the PUA, as it is not yet complete (maybe one day).+AAoACgAA-It was only possible to remake this font thanks to an artwork found on the designer's website, at: https://eddwainwright.com+AAoACgAA--- NR74W (2021)"
+FontLog: "The Assegai Rounded font from WipEout Pulse, released for the PlayStation Portable in 2007.+AAoA-Made by Edd Wainwright from Studio Liverpool.+AAoACgAA-Version 1.0.+AAoA-Homepage: https://github.com/NR74W/WipEout-Fonts+AAoACgAA-This unique typeface was created for the Assegai Developments logo and their billboards in WipEout Pulse, and is almost identical to the one used in WipEout Pure.+AAoA-It is reminiscent of the Prototype AS-ULAR font made by The Designers Republic for the company's logotype in Wip3out.+AAoACgAA-The original font most likely used kerning, it was not possible to replicate it so the same spacing size was used for all characters (100EM).+AAoA-The numbers 0 and 4 to 9 had to be created due to lack of source materials, and no special characters could be added (perhaps they never existed).+AAoA-It is possible that some of the capital letters were different, the +ACIA-Achieve Your Destiny+ACIA billboard used a different E / H / R / T. These have been added in the PUA.+AAoACgAA-It was only possible to remake this font thanks to an artwork found on the designer's website, at: https://eddwainwright.com+AAoACgAA--- NR74W (2021)"
 Version: 1.00
 ItalicAngle: 0
 UnderlinePosition: -100
@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1631655603
-ModificationTime: 1631750149
+ModificationTime: 1634763519
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5

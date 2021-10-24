@@ -5,8 +5,8 @@ FamilyName: F500 Ang-ular
 Weight: Regular
 Copyright: F500 Ang-ular remake by NR74W (2021).\nOriginal font design by The Designers Republic (1999).
 UComments: "2021-4-2: Created with FontForge (http://fontforge.org)"
-FontLog: "The F500 Ang-ular font from Wip3out, released for the PlayStation in 1999.+AAoA-Made by The Designers Republic.+AAoACgAA-Version 2.0.+AAoA-Homepage: https://github.com/NR74W/WipEout-Fonts+AAoACgAA-Some infos about its design (verified):+AAoA-- Standard characters have an aspect ratio of 6:5.+AAoA-- Extended height is 6.25; full height is 7.5.+AAoA-- Diagonals are 38+ALAA-/142+ALAA (approximately, due to integer precision).+AAoA-- Character separation is 0.5.+AAoA-- I +AD0A 1:6.25; J +AD0A 3.5:7.5; L +AD0A 2:6.25; Z +AD0A 5:5; 1 +AD0A 2.5:5.+AAoA-- The Z is special, it is the only letter with an aspect ratio of 5:5, and looks like a E without the left vertical line.+AAoA-- The semicolon has its dot placed lower than the upper dot of the colon, this is normal (can be seen on the official W3 website).+AAoA-- Due to space constraint of the game's HUD, the +ACIA-4+ACIA used in Wip3out had its lower-right part reduced.+AAoA-- The font has at least more than one version: the K, L and X had a variant; the F, G, I, L and (space) had a variant only used in the F7200 logotype. These special characters are in the PUA.+AAoACgAA-Things I'm unsure about:+AAoA-- Space size... It's impossible to determine the right one, the original source materials contradict each other, sometimes space may have been used twice between the characters, it's even possible its size was actually very small and used as many times as needed but it cannot be verified... 6.25 seems correct, or at least accepted (using the official website and some pictures from the Press CD as reference).+AAoA-- Kerning... Only seen in an issue of Edge Magazine (#72). I think I got the size mostly right, but no way to know for sure. For some reason some words were messed up, but it's extremely likely that they got the official TDR font. Known characters that used kerning are B, D, H, N, Q, R, V and Y.+AAoA-- Some characters... The % was only used in the game (maybe), the textures were low resolution so the appearance may be inaccurate. The sharp S, inverted question and exclamation marks, asterisk, division sign and ligatures AE/OE were made up and are in no way official.+AAoA-- No accents, so the normal characters were used as placeholders.+AAoACgAA--- NR74W (2021)"
-Version: 2.00
+FontLog: "The F500 Ang-ular font from Wip3out, released for the PlayStation in 1999.+AAoA-Made by The Designers Republic.+AAoACgAA-Version 3.0.+AAoA-Homepage: https://github.com/NR74W/WipEout-Fonts+AAoACgAA-Design information:+AAoA-- Standard characters have an aspect ratio of 6:5.+AAoA-- Extended height is 6.25; full height is 7.5.+AAoA-- Diagonals are 38+ALAA-/142+ALAA (approximately, due to integer precision).+AAoA-- Character separation is 0.5.+AAoA-- I +AD0A 1:6.25; J +AD0A 3.5:7.5; L +AD0A 2:6.25; Z +AD0A 5:5; 1 +AD0A 2.5:5.+AAoA-- The Z is special, it is the only letter with an aspect ratio of 5:5, and looks like a E without the left vertical line.+AAoA-- The semicolon has its dot placed lower than the upper dot of the colon, this is normal (can be seen on the official W3 website).+AAoA-- Due to space constraint of the game's HUD, the +ACIA-4+ACIA used in Wip3out had its lower-right part reduced. Curiously, the prototype used the original character.+AAoA-- The font has at least more than one version: the K, L and X had a variant; the F, G, I, L and (space) had a variant only used in the F7200 logotype. These special characters are in the Private Use Area.+AAoA-- Using the official website (HTML version) as reference, the size of the space is 3.125. On the website (Flash version) and the Press CD, it was 6.25 (same size as extended height). The full-width space is most commonly seen and was used as default, the half-width space is available in the PUA.+AAoACgAA-Notes:+AAoA-- Kerning: Seen in an issue of Edge Magazine (#72). For some reason some words were messed up, but it's extremely likely that they used the official TDR font. Known characters that used kerning are the B, D, H, N, Q, R, V, Y and /. Was also used in the manual of Wip3out (for the Slash and D in +ACIA-Research/Dev.+ACIA), but not in the WipEout 3: Special Edition manual. Kerning was not always used, it's possible that it was optional.+AAoA-- Characters: The % was perhaps only used in the game, the textures were low resolution so the appearance may be inaccurate. The sharp S, inverted question and exclamation marks, asterisk, division sign and ligatures AE/OE are not official.+AAoA-- Accents: It's unknown if there were accents, so the normal characters were used as placeholders. The +AMcA was seen on the official website, for the language text +ACIA-Fran+AOcA-ais+ACIA.+AAoACgAA--- NR74W (2021)"
+Version: 3.00
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 50
@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1617395929
-ModificationTime: 1622142837
+ModificationTime: 1634741708
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -43,8 +43,8 @@ HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
 OS2Vendor: 'PfEd'
-Lookup: 3 0 0 "'salt' lookup" { "Subtable 'salt' 1"  "Subtable 'salt' 2"  } ['salt' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
-Lookup: 258 0 0 "'kern' lookup" { "Subtable 'kern'" [153,15,2] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 3 0 0 "'salt' lookup" { "'salt' subtable - F500 Ang-ular (unknown version)"  "'salt' subtable - F7200 Racing League Logotype"  "'salt' subtable - Wip3out"  } ['salt' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 258 0 0 "'kern' lookup" { "'kern' subtable - EDGE #72" [153,15,2] "'kern' subtable - Wip3out Manual" [150,15,2] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033 "" "" "Regular"
@@ -98,16 +98,15 @@ Grid
  868 800 l 1025
 EndSplineSet
 TeXData: 1 0 0 1048576 524288 349525 0 1048576 349525 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 65536 172
+BeginChars: 65536 180
 
 StartChar: space
 Encoding: 32 32 0
 Width: 800
-VWidth: 1024
 Flags: W
 LayerCount: 2
-AlternateSubs2: "Subtable 'salt' 2" uniE00B
-AlternateSubs2: "Subtable 'salt' 1" uniE004
+AlternateSubs2: "'salt' subtable - F500 Ang-ular (unknown version)" uniE043
+AlternateSubs2: "'salt' subtable - F7200 Racing League Logotype" uniE024
 EndChar
 
 StartChar: quotedbl
@@ -239,6 +238,7 @@ SplineSet
  0 0 l 17
 EndSplineSet
 Validated: 1
+Kerns2: 23 -384 "'kern' subtable - Wip3out Manual" 109 -384 "'kern' subtable - Wip3out Manual"
 EndChar
 
 StartChar: one
@@ -369,7 +369,7 @@ SplineSet
  0 0 l 1
 EndSplineSet
 Validated: 1
-AlternateSubs2: "Subtable 'salt' 2" uniE005
+AlternateSubs2: "'salt' subtable - Wip3out" uniE060
 EndChar
 
 StartChar: five
@@ -577,7 +577,7 @@ SplineSet
  0 -160 l 1
 EndSplineSet
 Validated: 1
-AlternateSubs2: "Subtable 'salt' 2" uniE00A
+AlternateSubs2: "'salt' subtable - Wip3out" uniE061
 EndChar
 
 StartChar: A
@@ -633,7 +633,7 @@ SplineSet
  0 0 l 1
 EndSplineSet
 Validated: 1
-Kerns2: 36 -278 "Subtable 'kern'" 41 -278 "Subtable 'kern'" 44 -278 "Subtable 'kern'" 122 -278 "Subtable 'kern'" 127 -278 "Subtable 'kern'" 130 -278 "Subtable 'kern'"
+Kerns2: 36 -278 "'kern' subtable - EDGE #72" 41 -278 "'kern' subtable - EDGE #72" 44 -278 "'kern' subtable - EDGE #72" 122 -278 "'kern' subtable - EDGE #72" 127 -278 "'kern' subtable - EDGE #72" 130 -278 "'kern' subtable - EDGE #72"
 EndChar
 
 StartChar: C
@@ -737,7 +737,7 @@ SplineSet
  0 -160 l 17
 EndSplineSet
 Validated: 1
-AlternateSubs2: "Subtable 'salt' 1" uniE000
+AlternateSubs2: "'salt' subtable - F7200 Racing League Logotype" uniE020
 EndChar
 
 StartChar: G
@@ -764,7 +764,7 @@ SplineSet
  0 0 l 1
 EndSplineSet
 Validated: 1
-AlternateSubs2: "Subtable 'salt' 1" uniE001
+AlternateSubs2: "'salt' subtable - F7200 Racing League Logotype" uniE021
 EndChar
 
 StartChar: H
@@ -792,7 +792,7 @@ SplineSet
  0 0 l 1
 EndSplineSet
 Validated: 1
-Kerns2: 36 -278 "Subtable 'kern'" 41 -278 "Subtable 'kern'" 44 -278 "Subtable 'kern'" 122 -278 "Subtable 'kern'" 127 -278 "Subtable 'kern'" 130 -278 "Subtable 'kern'"
+Kerns2: 36 -278 "'kern' subtable - EDGE #72" 41 -278 "'kern' subtable - EDGE #72" 44 -278 "'kern' subtable - EDGE #72" 122 -278 "'kern' subtable - EDGE #72" 127 -278 "'kern' subtable - EDGE #72" 130 -278 "'kern' subtable - EDGE #72"
 EndChar
 
 StartChar: I
@@ -817,7 +817,7 @@ SplineSet
  0 0 l 1
 EndSplineSet
 Validated: 1
-AlternateSubs2: "Subtable 'salt' 1" uniE002
+AlternateSubs2: "'salt' subtable - F7200 Racing League Logotype" uniE022
 EndChar
 
 StartChar: J
@@ -875,7 +875,7 @@ SplineSet
  0 0 l 1
 EndSplineSet
 Validated: 1
-AlternateSubs2: "Subtable 'salt' 2" uniE006
+AlternateSubs2: "'salt' subtable - F500 Ang-ular (unknown version)" uniE040
 EndChar
 
 StartChar: L
@@ -897,8 +897,8 @@ SplineSet
  0 0 l 1
 EndSplineSet
 Validated: 1
-AlternateSubs2: "Subtable 'salt' 2" uniE007
-AlternateSubs2: "Subtable 'salt' 1" uniE003
+AlternateSubs2: "'salt' subtable - F500 Ang-ular (unknown version)" uniE041
+AlternateSubs2: "'salt' subtable - F7200 Racing League Logotype" uniE023
 EndChar
 
 StartChar: M
@@ -953,7 +953,7 @@ SplineSet
  0 0 l 1
 EndSplineSet
 Validated: 1
-Kerns2: 36 -278 "Subtable 'kern'" 41 -278 "Subtable 'kern'" 44 -278 "Subtable 'kern'" 122 -278 "Subtable 'kern'" 127 -278 "Subtable 'kern'" 130 -278 "Subtable 'kern'"
+Kerns2: 36 -278 "'kern' subtable - EDGE #72" 41 -278 "'kern' subtable - EDGE #72" 44 -278 "'kern' subtable - EDGE #72" 122 -278 "'kern' subtable - EDGE #72" 127 -278 "'kern' subtable - EDGE #72" 130 -278 "'kern' subtable - EDGE #72"
 EndChar
 
 StartChar: O
@@ -1052,7 +1052,7 @@ SplineSet
  0 0 l 1
 EndSplineSet
 Validated: 1
-Kerns2: 23 -384 "Subtable 'kern'" 109 -384 "Subtable 'kern'"
+Kerns2: 23 -384 "'kern' subtable - EDGE #72" 109 -384 "'kern' subtable - EDGE #72"
 EndChar
 
 StartChar: S
@@ -1220,7 +1220,7 @@ SplineSet
  0 0 l 1
 EndSplineSet
 Validated: 1
-AlternateSubs2: "Subtable 'salt' 2" uniE008
+AlternateSubs2: "'salt' subtable - F500 Ang-ular (unknown version)" uniE042
 EndChar
 
 StartChar: Y
@@ -1754,8 +1754,8 @@ Encoding: 199 199 62
 Width: 832
 VWidth: 1024
 Flags: W
-HStem: 0 128<128 768> 512 128<128 768>
-VStem: 0 128<128 512>
+HStem: 0 128<128 320 448 768> 512 128<128 768>
+VStem: 0 128<128 512> 320 128<-160 0>
 LayerCount: 2
 Fore
 SplineSet
@@ -1767,6 +1767,10 @@ SplineSet
  128 128 l 1
  768 128 l 1
  768 0 l 1
+ 448 -0 l 1
+ 448 -160 l 1
+ 320 -160 l 1
+ 320 0 l 1
  0 0 l 1
 EndSplineSet
 Validated: 1
@@ -1777,8 +1781,8 @@ Encoding: 231 231 63
 Width: 832
 VWidth: 1024
 Flags: W
-HStem: 0 128<128 768> 512 128<128 768>
-VStem: 0 128<128 512>
+HStem: 0 128<128 320 448 768> 512 128<128 768>
+VStem: 0 128<128 512> 320 128<-160 0>
 LayerCount: 2
 Fore
 SplineSet
@@ -1790,6 +1794,10 @@ SplineSet
  128 128 l 1
  768 128 l 1
  768 0 l 1
+ 448 -0 l 1
+ 448 -160 l 1
+ 320 -160 l 1
+ 320 0 l 1
  0 0 l 1
 EndSplineSet
 Validated: 1
@@ -2819,7 +2827,6 @@ EndChar
 StartChar: uni00A0
 Encoding: 160 160 105
 Width: 800
-VWidth: 1024
 Flags: W
 LayerCount: 2
 EndChar
@@ -2877,7 +2884,7 @@ SplineSet
  0 0 l 1
 EndSplineSet
 Validated: 1
-Kerns2: 36 -278 "Subtable 'kern'" 41 -278 "Subtable 'kern'" 44 -278 "Subtable 'kern'" 122 -278 "Subtable 'kern'" 127 -278 "Subtable 'kern'" 130 -278 "Subtable 'kern'"
+Kerns2: 36 -278 "'kern' subtable - EDGE #72" 41 -278 "'kern' subtable - EDGE #72" 44 -278 "'kern' subtable - EDGE #72" 122 -278 "'kern' subtable - EDGE #72" 127 -278 "'kern' subtable - EDGE #72" 130 -278 "'kern' subtable - EDGE #72"
 EndChar
 
 StartChar: c
@@ -2981,7 +2988,7 @@ SplineSet
  0 -160 l 17
 EndSplineSet
 Validated: 1
-AlternateSubs2: "Subtable 'salt' 1" uniE000
+AlternateSubs2: "'salt' subtable - F7200 Racing League Logotype" uniE020
 EndChar
 
 StartChar: g
@@ -3008,7 +3015,7 @@ SplineSet
  0 0 l 1
 EndSplineSet
 Validated: 1
-AlternateSubs2: "Subtable 'salt' 1" uniE001
+AlternateSubs2: "'salt' subtable - F7200 Racing League Logotype" uniE021
 EndChar
 
 StartChar: h
@@ -3036,7 +3043,7 @@ SplineSet
  0 0 l 1
 EndSplineSet
 Validated: 1
-Kerns2: 36 -278 "Subtable 'kern'" 41 -278 "Subtable 'kern'" 44 -278 "Subtable 'kern'" 122 -278 "Subtable 'kern'" 127 -278 "Subtable 'kern'" 130 -278 "Subtable 'kern'"
+Kerns2: 36 -278 "'kern' subtable - EDGE #72" 41 -278 "'kern' subtable - EDGE #72" 44 -278 "'kern' subtable - EDGE #72" 122 -278 "'kern' subtable - EDGE #72" 127 -278 "'kern' subtable - EDGE #72" 130 -278 "'kern' subtable - EDGE #72"
 EndChar
 
 StartChar: i
@@ -3061,7 +3068,7 @@ SplineSet
  0 0 l 1
 EndSplineSet
 Validated: 1
-AlternateSubs2: "Subtable 'salt' 1" uniE002
+AlternateSubs2: "'salt' subtable - F7200 Racing League Logotype" uniE022
 EndChar
 
 StartChar: j
@@ -3119,7 +3126,7 @@ SplineSet
  0 0 l 1
 EndSplineSet
 Validated: 1
-AlternateSubs2: "Subtable 'salt' 2" uniE006
+AlternateSubs2: "'salt' subtable - F500 Ang-ular (unknown version)" uniE040
 EndChar
 
 StartChar: l
@@ -3141,8 +3148,8 @@ SplineSet
  0 0 l 1
 EndSplineSet
 Validated: 1
-AlternateSubs2: "Subtable 'salt' 2" uniE007
-AlternateSubs2: "Subtable 'salt' 1" uniE003
+AlternateSubs2: "'salt' subtable - F500 Ang-ular (unknown version)" uniE041
+AlternateSubs2: "'salt' subtable - F7200 Racing League Logotype" uniE023
 EndChar
 
 StartChar: m
@@ -3197,7 +3204,7 @@ SplineSet
  0 0 l 1
 EndSplineSet
 Validated: 1
-Kerns2: 36 -278 "Subtable 'kern'" 41 -278 "Subtable 'kern'" 44 -278 "Subtable 'kern'" 122 -278 "Subtable 'kern'" 127 -278 "Subtable 'kern'" 130 -278 "Subtable 'kern'"
+Kerns2: 36 -278 "'kern' subtable - EDGE #72" 41 -278 "'kern' subtable - EDGE #72" 44 -278 "'kern' subtable - EDGE #72" 122 -278 "'kern' subtable - EDGE #72" 127 -278 "'kern' subtable - EDGE #72" 130 -278 "'kern' subtable - EDGE #72"
 EndChar
 
 StartChar: o
@@ -3296,7 +3303,7 @@ SplineSet
  0 0 l 1
 EndSplineSet
 Validated: 1
-Kerns2: 23 -384 "Subtable 'kern'" 109 -384 "Subtable 'kern'"
+Kerns2: 23 -384 "'kern' subtable - EDGE #72" 109 -384 "'kern' subtable - EDGE #72"
 EndChar
 
 StartChar: s
@@ -3464,7 +3471,7 @@ SplineSet
  0 0 l 1
 EndSplineSet
 Validated: 1
-AlternateSubs2: "Subtable 'salt' 2" uniE008
+AlternateSubs2: "'salt' subtable - F500 Ang-ular (unknown version)" uniE042
 EndChar
 
 StartChar: y
@@ -3556,8 +3563,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: arrowleft
-Encoding: 8592 8592 134
+StartChar: uniE000
+Encoding: 57344 57344 134
 Width: 832
 VWidth: 1024
 Flags: W
@@ -3584,13 +3591,14 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: arrowup
-Encoding: 8593 8593 135
+StartChar: uniE001
+Encoding: 57345 57345 135
 Width: 832
 VWidth: 1024
 Flags: W
 HStem: 0 128<128 512>
 VStem: 0 128<128 256> 512 128<128 512>
+CounterMasks: 1 e0
 LayerCount: 2
 Fore
 SplineSet
@@ -3612,8 +3620,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: arrowright
-Encoding: 8594 8594 136
+StartChar: uniE002
+Encoding: 57346 57346 136
 Width: 832
 VWidth: 1024
 Flags: W
@@ -3640,8 +3648,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: arrowdown
-Encoding: 8595 8595 137
+StartChar: uniE003
+Encoding: 57347 57347 137
 Width: 832
 VWidth: 1024
 Flags: W
@@ -3668,172 +3676,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uniE000
-Encoding: 57344 57344 138
-Width: 832
-VWidth: 1024
-Flags: W
-HStem: 0 21G<0 128> 256 128<128 768> 512 128<128 768>
-VStem: 0 128<0 256 384 512>
-LayerCount: 2
-Fore
-SplineSet
-0 0 m 1
- 0 640 l 1
- 768 640 l 1
- 768 512 l 1
- 128 512 l 1
- 128 384 l 1
- 768 384 l 1
- 768 256 l 1
- 128 256 l 1
- 128 0 l 1
- 0 0 l 1
-EndSplineSet
-Validated: 1
-EndChar
-
-StartChar: uniE001
-Encoding: 57345 57345 139
-Width: 832
-VWidth: 1024
-Flags: W
-HStem: 0 128<128 640> 256 128<448 640> 512 128<128 768>
-VStem: 0 128<128 512> 640 128<128 256>
-CounterMasks: 1 e0
-LayerCount: 2
-Fore
-SplineSet
-0 0 m 1
- 0 640 l 1
- 768 640 l 1
- 768 512 l 1
- 128 512 l 1
- 128 128 l 1
- 640 128 l 1
- 640 256 l 1
- 448 256 l 9
- 448 384 l 17
- 768 384 l 1
- 768 0 l 1
- 0 0 l 1
-EndSplineSet
-Validated: 1
-EndChar
-
-StartChar: uniE002
-Encoding: 57346 57346 140
-Width: 192
-VWidth: 1024
-Flags: W
-HStem: 0 21G<0 128> 620 20G<0 128>
-VStem: 0 128<0 640>
-LayerCount: 2
-Fore
-SplineSet
-0 0 m 1
- 0 640 l 1
- 128 640 l 1
- 128 0 l 1
- 0 0 l 1
-EndSplineSet
-Validated: 1
-EndChar
-
-StartChar: uniE003
-Encoding: 57347 57347 141
-Width: 512
-VWidth: 1024
-Flags: W
-HStem: 0 128<128 448> 620 20G<0 128>
-VStem: 0 128<128 640>
-LayerCount: 2
-Fore
-SplineSet
-0 0 m 1
- 0 640 l 1
- 128 640 l 1
- 128 128 l 1
- 448 128 l 1
- 448 0 l 1
- 0 0 l 1
-EndSplineSet
-Validated: 1
-EndChar
-
-StartChar: uniE004
-Encoding: 57348 57348 142
-Width: 256
-VWidth: 1024
-Flags: W
-LayerCount: 2
-Fore
-Validated: 1
-EndChar
-
-StartChar: uniE005
-Encoding: 57349 57349 143
-Width: 832
-VWidth: 1024
-Flags: W
-HStem: 0 128<124 640> 620 20G<490 618>
-VStem: 490 128<574 640> 640 128<-64 0 128 384>
-DStem2: 0 192 124 128 0.789524 0.613719<58.623 621.308>
-LayerCount: 2
-Fore
-SplineSet
-0 0 m 1
- 0 192 l 1
- 490 574 l 1
- 490 640 l 1
- 618 640 l 1
- 618 512 l 1
- 124 128 l 1
- 640 128 l 1
- 640 384 l 1
- 768 384 l 1
- 768 -64 l 1
- 640 -64 l 1
- 640 0 l 1
- 0 0 l 1
-EndSplineSet
-Validated: 1
-EndChar
-
-StartChar: uniE006
-Encoding: 57350 57350 144
-Width: 832
-VWidth: 1024
-Flags: W
-HStem: 0 192<640 768> 64 128<128 640> 512 128<364 768> 780 20G<0 128>
-VStem: 0 128<0 64 192 328 490 800> 640 128<0 64>
-DStem2: 128 490 128 328 0.788632 0.614866<0 199.644>
-LayerCount: 2
-Fore
-SplineSet
-0 0 m 1xbc
- 0 800 l 1
- 128 800 l 17
- 128 490 l 1
- 320 640 l 1
- 768 640 l 1
- 768 512 l 1
- 364 512 l 1
- 128 328 l 1
- 128 192 l 1x7c
- 768 192 l 1
- 768 0 l 1
- 640 0 l 1xbc
- 640 64 l 1
- 128 64 l 1x7c
- 128 0 l 1
- 0 0 l 1xbc
-EndSplineSet
-Validated: 1
-EndChar
-
 StartChar: equal
-Encoding: 61 61 145
+Encoding: 61 61 138
 Width: 704
 VWidth: 1024
 Flags: W
@@ -3856,7 +3700,7 @@ Validated: 1
 EndChar
 
 StartChar: question
-Encoding: 63 63 146
+Encoding: 63 63 139
 Width: 832
 VWidth: 1024
 Flags: W
@@ -3886,7 +3730,7 @@ Validated: 1
 EndChar
 
 StartChar: exclam
-Encoding: 33 33 147
+Encoding: 33 33 140
 Width: 192
 VWidth: 1024
 Flags: W
@@ -3910,7 +3754,7 @@ Validated: 1
 EndChar
 
 StartChar: plus
-Encoding: 43 43 148
+Encoding: 43 43 141
 Width: 704
 VWidth: 1024
 Flags: W
@@ -3952,7 +3796,7 @@ Validated: 1
 EndChar
 
 StartChar: parenleft
-Encoding: 40 40 149
+Encoding: 40 40 142
 Width: 320
 VWidth: 1024
 Flags: W
@@ -3975,7 +3819,7 @@ Validated: 1
 EndChar
 
 StartChar: parenright
-Encoding: 41 41 150
+Encoding: 41 41 143
 Width: 320
 VWidth: 1024
 Flags: W
@@ -3998,7 +3842,7 @@ Validated: 1
 EndChar
 
 StartChar: bracketleft
-Encoding: 91 91 151
+Encoding: 91 91 144
 Width: 320
 VWidth: 1024
 Flags: W
@@ -4021,7 +3865,7 @@ Validated: 1
 EndChar
 
 StartChar: bracketright
-Encoding: 93 93 152
+Encoding: 93 93 145
 Width: 320
 VWidth: 1024
 Flags: W
@@ -4044,7 +3888,7 @@ Validated: 1
 EndChar
 
 StartChar: backslash
-Encoding: 92 92 153
+Encoding: 92 92 146
 Width: 832
 VWidth: 1024
 Flags: W
@@ -4068,7 +3912,7 @@ Validated: 1
 EndChar
 
 StartChar: questiondown
-Encoding: 191 191 154
+Encoding: 191 191 147
 Width: 832
 VWidth: 1024
 Flags: W
@@ -4098,7 +3942,7 @@ Validated: 1
 EndChar
 
 StartChar: exclamdown
-Encoding: 161 161 155
+Encoding: 161 161 148
 Width: 192
 VWidth: 1024
 Flags: W
@@ -4122,7 +3966,7 @@ Validated: 1
 EndChar
 
 StartChar: braceleft
-Encoding: 123 123 156
+Encoding: 123 123 149
 Width: 448
 VWidth: 1024
 Flags: W
@@ -4149,7 +3993,7 @@ Validated: 1
 EndChar
 
 StartChar: bar
-Encoding: 124 124 157
+Encoding: 124 124 150
 Width: 192
 VWidth: 1024
 Flags: W
@@ -4175,7 +4019,7 @@ Validated: 1
 EndChar
 
 StartChar: braceright
-Encoding: 125 125 158
+Encoding: 125 125 151
 Width: 448
 VWidth: 1024
 Flags: W
@@ -4202,7 +4046,7 @@ Validated: 1
 EndChar
 
 StartChar: percent
-Encoding: 37 37 159
+Encoding: 37 37 152
 Width: 832
 VWidth: 1024
 Flags: W
@@ -4236,7 +4080,7 @@ Validated: 1
 EndChar
 
 StartChar: asterisk
-Encoding: 42 42 160
+Encoding: 42 42 153
 Width: 192
 VWidth: 1024
 Flags: W
@@ -4254,63 +4098,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uniE007
-Encoding: 57351 57351 161
-Width: 192
-VWidth: 1024
-Flags: W
-HStem: 0 21G<0 128> 780 20G<0 128>
-VStem: 0 128<0 800>
-LayerCount: 2
-Fore
-SplineSet
-0 0 m 1
- 0 800 l 1
- 128 800 l 1
- 128 0 l 1
- 0 0 l 1
-EndSplineSet
-Validated: 1
-EndChar
-
-StartChar: uniE008
-Encoding: 57352 57352 162
-Width: 832
-VWidth: 1024
-Flags: W
-HStem: 0 21G<0 128 640 768> 512 128<0 150>
-VStem: 0 128<0 128> 640 128<0 128 512 640>
-DStem2: 0 192 128 128 0.789049 0.614331<61.6811 354.858> 192 640 150 512 0.789352 -0.613941<45.4316 210.669 342.491 389.063 520.885 667.967>
-LayerCount: 2
-Fore
-SplineSet
-0 0 m 1
- 0 192 l 1
- 280 410 l 1
- 150 512 l 1
- 0 512 l 1
- 0 640 l 1
- 192 640 l 1
- 499 401 l 1
- 640 512 l 1
- 640 640 l 1
- 768 640 l 1
- 768 448 l 1
- 603 320 l 1
- 768 192 l 1
- 768 0 l 1
- 640 0 l 1
- 640 128 l 1
- 384 329 l 1
- 128 128 l 1
- 128 0 l 1
- 0 0 l 1
-EndSplineSet
-Validated: 1
-EndChar
-
 StartChar: multiply
-Encoding: 215 215 163
+Encoding: 215 215 154
 Width: 832
 VWidth: 1024
 Flags: W
@@ -4347,7 +4136,7 @@ Validated: 1
 EndChar
 
 StartChar: divide
-Encoding: 247 247 164
+Encoding: 247 247 155
 Width: 704
 VWidth: 1024
 Flags: W
@@ -4398,7 +4187,7 @@ Validated: 1
 EndChar
 
 StartChar: germandbls
-Encoding: 223 223 165
+Encoding: 223 223 156
 Width: 832
 VWidth: 1024
 Flags: W
@@ -4428,7 +4217,7 @@ Validated: 1
 EndChar
 
 StartChar: Ydieresis
-Encoding: 376 376 166
+Encoding: 376 376 157
 Width: 832
 VWidth: 1024
 Flags: W
@@ -4454,26 +4243,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uniE009
-Encoding: 57353 57353 167
-Width: 832
-VWidth: 1024
-Flags: W
-HStem: 0 128<0 768>
-LayerCount: 2
-Fore
-SplineSet
-0 0 m 1
- 0 128 l 1
- 768 128 l 1
- 768 0 l 1
- 0 0 l 1
-EndSplineSet
-Validated: 1
-EndChar
-
 StartChar: Eth
-Encoding: 208 208 168
+Encoding: 208 208 158
 Width: 832
 VWidth: 1024
 Flags: W
@@ -4500,7 +4271,7 @@ Validated: 1
 EndChar
 
 StartChar: eth
-Encoding: 240 240 169
+Encoding: 240 240 159
 Width: 832
 VWidth: 1024
 Flags: W
@@ -4526,8 +4297,330 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uniE00A
-Encoding: 57354 57354 170
+StartChar: Scaron
+Encoding: 352 352 160
+Width: 832
+VWidth: 1024
+Flags: W
+HStem: 0 128<0 640> 256 128<128 640> 512 128<128 768>
+VStem: 0 128<384 512> 640 128<128 256>
+LayerCount: 2
+Fore
+SplineSet
+0 0 m 1
+ 0 128 l 1
+ 640 128 l 1
+ 640 256 l 1
+ 0 256 l 1
+ 0 640 l 1
+ 768 640 l 1
+ 768 512 l 1
+ 128 512 l 1
+ 128 384 l 1
+ 768 384 l 1
+ 768 0 l 1
+ 0 0 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: scaron
+Encoding: 353 353 161
+Width: 832
+VWidth: 1024
+Flags: W
+HStem: 0 128<0 640> 256 128<128 640> 512 128<128 768>
+VStem: 0 128<384 512> 640 128<128 256>
+LayerCount: 2
+Fore
+SplineSet
+0 0 m 1
+ 0 128 l 1
+ 640 128 l 1
+ 640 256 l 1
+ 0 256 l 1
+ 0 640 l 1
+ 768 640 l 1
+ 768 512 l 1
+ 128 512 l 1
+ 128 384 l 1
+ 768 384 l 1
+ 768 0 l 1
+ 0 0 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: Zcaron
+Encoding: 381 381 162
+Width: 704
+VWidth: 1024
+Flags: W
+HStem: 0 128<228 640> 512 128<0 516>
+DStem2: 22 128 228 128 0.789524 0.613719<162.642 625.693>
+LayerCount: 2
+Fore
+SplineSet
+0 512 m 1
+ 0 640 l 1
+ 640 640 l 1
+ 640 448 l 1
+ 228 128 l 1
+ 640 128 l 1
+ 640 0 l 1
+ 22 0 l 1
+ 22 128 l 1
+ 516 512 l 1
+ 0 512 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: zcaron
+Encoding: 382 382 163
+Width: 704
+VWidth: 1024
+Flags: W
+HStem: 0 128<228 640> 512 128<0 516>
+DStem2: 22 128 228 128 0.789524 0.613719<162.642 625.693>
+LayerCount: 2
+Fore
+SplineSet
+0 512 m 1
+ 0 640 l 1
+ 640 640 l 1
+ 640 448 l 1
+ 228 128 l 1
+ 640 128 l 1
+ 640 0 l 1
+ 22 0 l 1
+ 22 128 l 1
+ 516 512 l 1
+ 0 512 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uniE040
+Encoding: 57408 57408 164
+Width: 832
+VWidth: 1024
+Flags: W
+HStem: 0 192<640 768> 64 128<128 640> 512 128<364 768> 780 20G<0 128>
+VStem: 0 128<0 64 192 328 490 800> 640 128<0 64>
+DStem2: 128 490 128 328 0.788632 0.614866<0 199.644>
+LayerCount: 2
+Fore
+SplineSet
+0 0 m 1xbc
+ 0 800 l 1
+ 128 800 l 17
+ 128 490 l 1
+ 320 640 l 1
+ 768 640 l 1
+ 768 512 l 1
+ 364 512 l 1
+ 128 328 l 1
+ 128 192 l 1x7c
+ 768 192 l 1
+ 768 0 l 1
+ 640 0 l 1xbc
+ 640 64 l 1
+ 128 64 l 1x7c
+ 128 0 l 1
+ 0 0 l 1xbc
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uniE041
+Encoding: 57409 57409 165
+Width: 192
+VWidth: 1024
+Flags: W
+HStem: 0 21G<0 128> 780 20G<0 128>
+VStem: 0 128<0 800>
+LayerCount: 2
+Fore
+SplineSet
+0 0 m 1
+ 0 800 l 1
+ 128 800 l 1
+ 128 0 l 1
+ 0 0 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uniE042
+Encoding: 57410 57410 166
+Width: 832
+VWidth: 1024
+Flags: W
+HStem: 0 21G<0 128 640 768> 512 128<0 150>
+VStem: 0 128<0 128> 640 128<0 128 512 640>
+DStem2: 0 192 128 128 0.789049 0.614331<61.6811 354.858> 192 640 150 512 0.789352 -0.613941<45.4316 210.669 342.491 389.063 520.885 667.967>
+LayerCount: 2
+Fore
+SplineSet
+0 0 m 1
+ 0 192 l 1
+ 280 410 l 1
+ 150 512 l 1
+ 0 512 l 1
+ 0 640 l 1
+ 192 640 l 1
+ 499 401 l 1
+ 640 512 l 1
+ 640 640 l 1
+ 768 640 l 1
+ 768 448 l 1
+ 603 320 l 1
+ 768 192 l 1
+ 768 0 l 1
+ 640 0 l 1
+ 640 128 l 1
+ 384 329 l 1
+ 128 128 l 1
+ 128 0 l 1
+ 0 0 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uniE020
+Encoding: 57376 57376 167
+Width: 832
+VWidth: 1024
+Flags: W
+HStem: 0 21G<0 128> 256 128<128 768> 512 128<128 768>
+VStem: 0 128<0 256 384 512>
+LayerCount: 2
+Fore
+SplineSet
+0 0 m 1
+ 0 640 l 1
+ 768 640 l 1
+ 768 512 l 1
+ 128 512 l 1
+ 128 384 l 1
+ 768 384 l 1
+ 768 256 l 1
+ 128 256 l 1
+ 128 0 l 1
+ 0 0 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uniE021
+Encoding: 57377 57377 168
+Width: 832
+VWidth: 1024
+Flags: W
+HStem: 0 128<128 640> 256 128<448 640> 512 128<128 768>
+VStem: 0 128<128 512> 640 128<128 256>
+LayerCount: 2
+Fore
+SplineSet
+0 0 m 1
+ 0 640 l 1
+ 768 640 l 1
+ 768 512 l 1
+ 128 512 l 1
+ 128 128 l 1
+ 640 128 l 1
+ 640 256 l 1
+ 448 256 l 9
+ 448 384 l 17
+ 768 384 l 1
+ 768 0 l 1
+ 0 0 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uniE022
+Encoding: 57378 57378 169
+Width: 192
+VWidth: 1024
+Flags: W
+HStem: 0 21G<0 128> 620 20G<0 128>
+VStem: 0 128<0 640>
+LayerCount: 2
+Fore
+SplineSet
+0 0 m 1
+ 0 640 l 1
+ 128 640 l 1
+ 128 0 l 1
+ 0 0 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uniE023
+Encoding: 57379 57379 170
+Width: 544
+VWidth: 1024
+Flags: W
+HStem: 0 128<128 480> 620 20G<0 128>
+VStem: 0 128<128 640>
+LayerCount: 2
+Fore
+SplineSet
+0 0 m 1
+ 0 640 l 1
+ 128 640 l 1
+ 128 128 l 1
+ 480 128 l 1
+ 480 0 l 1
+ 0 0 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uniE024
+Encoding: 57380 57380 171
+Width: 256
+VWidth: 1024
+Flags: W
+LayerCount: 2
+Fore
+Validated: 1
+EndChar
+
+StartChar: uniE060
+Encoding: 57440 57440 172
+Width: 832
+VWidth: 1024
+Flags: W
+HStem: 0 128<124 640> 620 20G<490 618>
+VStem: 490 128<574 640> 640 128<-64 0 128 384>
+DStem2: 0 192 124 128 0.789524 0.613719<58.623 621.308>
+LayerCount: 2
+Fore
+SplineSet
+0 0 m 1
+ 0 192 l 1
+ 490 574 l 1
+ 490 640 l 1
+ 618 640 l 1
+ 618 512 l 1
+ 124 128 l 1
+ 640 128 l 1
+ 640 384 l 1
+ 768 384 l 1
+ 768 -64 l 1
+ 640 -64 l 1
+ 640 0 l 1
+ 0 0 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uniE061
+Encoding: 57441 57441 173
 Width: 832
 VWidth: 1024
 Flags: W
@@ -4544,14 +4637,142 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: uniE00B
-Encoding: 57355 57355 171
-Width: 64
+StartChar: uniE062
+Encoding: 57442 57442 174
+Width: 832
+VWidth: 1024
+Flags: W
+HStem: 0 128<0 768>
+LayerCount: 2
+Fore
+SplineSet
+0 0 m 1
+ 0 128 l 1
+ 768 128 l 1
+ 768 0 l 1
+ 0 0 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uniE005
+Encoding: 57349 57349 175
+Width: 832
+VWidth: 1024
+Flags: W
+HStem: 0 128<512 640> 512 128<256 640>
+VStem: 640 128<128 512>
+LayerCount: 2
+Fore
+SplineSet
+0 576 m 25
+ 192 768 l 25
+ 256 768 l 17
+ 256 640 l 1
+ 768 640 l 1
+ 768 0 l 1
+ 512 0 l 1
+ 512 128 l 1
+ 640 128 l 1
+ 640 512 l 1
+ 256 512 l 1
+ 256 384 l 9
+ 192 384 l 25
+ 0 576 l 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uniE006
+Encoding: 57350 57350 176
+Width: 832
+VWidth: 1024
+Flags: W
+HStem: 0 128<256 640>
+VStem: 128 128<128 512> 640 128<128 256>
+LayerCount: 2
+Fore
+SplineSet
+0 512 m 9
+ 0 576 l 25
+ 192 768 l 25
+ 384 576 l 25
+ 384 512 l 17
+ 256 512 l 1
+ 256 128 l 1
+ 640 128 l 1
+ 640 256 l 1
+ 768 256 l 1
+ 768 0 l 1
+ 128 0 l 1
+ 128 512 l 1
+ 0 512 l 9
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uniE007
+Encoding: 57351 57351 177
+Width: 832
+VWidth: 1024
+Flags: W
+HStem: 0 128<128 256> 512 128<128 512>
+VStem: 0 128<128 512>
+LayerCount: 2
+Fore
+SplineSet
+0 0 m 1
+ 0 640 l 1
+ 512 640 l 1
+ 512 768 l 9
+ 576 768 l 25
+ 768 576 l 25
+ 576 384 l 25
+ 512 384 l 17
+ 512 512 l 1
+ 128 512 l 1
+ 128 128 l 1
+ 256 128 l 1
+ 256 0 l 1
+ 0 0 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uniE008
+Encoding: 57352 57352 178
+Width: 832
+VWidth: 1024
+Flags: W
+HStem: 0 21G<172 212> 640 128<256 640>
+VStem: 128 128<256 640> 640 128<512 640>
+LayerCount: 2
+Fore
+SplineSet
+0 192 m 25
+ 0 256 l 17
+ 128 256 l 1
+ 128 768 l 1
+ 768 768 l 1
+ 768 512 l 1
+ 640 512 l 1
+ 640 640 l 1
+ 256 640 l 1
+ 256 256 l 1
+ 384 256 l 9
+ 384 192 l 25
+ 192 0 l 25
+ 0 192 l 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uniE043
+Encoding: 57411 57411 179
+Width: 400
 VWidth: 1024
 Flags: W
 LayerCount: 2
-Fore
-Validated: 1
 EndChar
 EndChars
 EndSplineFont
